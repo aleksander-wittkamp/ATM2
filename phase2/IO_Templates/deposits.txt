@@ -1,0 +1,4 @@
+$50 Bills: 5,
+$20 Bills: 2,
+$10 Bills: 3,
+$5 Bills: 1,
